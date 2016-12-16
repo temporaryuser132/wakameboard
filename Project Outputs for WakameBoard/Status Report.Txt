@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [WakameBoard.PrjPcb]
+   Generated File[WakameBoard.BOM]
+   Generated File[WakameBoard.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:27:22 On 21/11/2016
