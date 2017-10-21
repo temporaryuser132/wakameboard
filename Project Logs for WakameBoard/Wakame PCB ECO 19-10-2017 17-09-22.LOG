@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=NetAXP1_APS Pin=C8-2
+Removed Pin From Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C9-2
+Removed Pin From Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C38-2
+Removed Pin From Net: NetName=NetAXP1_LX Pin=L?-1
+Removed Pin From Net: NetName=NetC37_1 Pin=L?-2
+Removed Pin From Net: NetName=NetR7_1 Pin=R7-1
+Removed Pin From Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetAXP1_APS Pin=C8-2
+Added Pin To Net: NetName=NetC1_1 Pin=C8-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_DC3SET Pin=C9-2
+Added Pin To Net: NetName=NetC1_1 Pin=C9-2
+Added Pin To Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=NetC1_1 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetAXP1_LX2 Pin=L?-1
+Added Pin To Net: NetName=NetC5_1 Pin=L?-2
+Added Pin To Net: NetName=NetC32_2 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=NetD1_A Pin=R7-2
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D3/PD3 Pin=Allwinner A1-LCD_D3/PD3
+Added Net: Name=NetAllwinner A1_LCD_D3/PD3
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D4/PD4 Pin=Allwinner A1-LCD_D4/PD4
+Added Net: Name=NetAllwinner A1_LCD_D4/PD4
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D5/PD5 Pin=Allwinner A1-LCD_D5/PD5
+Added Net: Name=NetAllwinner A1_LCD_D5/PD5
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D6/PD6 Pin=Allwinner A1-LCD_D6/PD6
+Added Net: Name=NetAllwinner A1_LCD_D6/PD6
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D7/PD7 Pin=Allwinner A1-LCD_D7/PD7
+Added Net: Name=NetAllwinner A1_LCD_D7/PD7
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D10/PD10 Pin=Allwinner A1-LCD_D10/PD10
+Added Net: Name=NetAllwinner A1_LCD_D10/PD10
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D11/PD11 Pin=Allwinner A1-LCD_D11/PD11
+Added Net: Name=NetAllwinner A1_LCD_D11/PD11
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D12/PD12 Pin=Allwinner A1-LCD_D12/PD12
+Added Net: Name=NetAllwinner A1_LCD_D12/PD12
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D13/PD13 Pin=Allwinner A1-LCD_D13/PD13
+Added Net: Name=NetAllwinner A1_LCD_D13/PD13
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D14/PD14 Pin=Allwinner A1-LCD_D14/PD14
+Added Net: Name=NetAllwinner A1_LCD_D14/PD14
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D15/PD15 Pin=Allwinner A1-LCD_D15/PD15
+Added Net: Name=NetAllwinner A1_LCD_D15/PD15
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D18/PD18 Pin=Allwinner A1-LCD_D18/PD18
+Added Net: Name=NetAllwinner A1_LCD_D18/PD18
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D19/PD19 Pin=Allwinner A1-LCD_D19/PD19
+Added Net: Name=NetAllwinner A1_LCD_D19/PD19
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D20/PD20 Pin=Allwinner A1-LCD_D20/PD20
+Added Net: Name=NetAllwinner A1_LCD_D20/PD20
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D22/PD22 Pin=Allwinner A1-LCD_D22/PD22
+Added Net: Name=NetAllwinner A1_LCD_D22/PD22
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D23/PD23 Pin=Allwinner A1-LCD_D23/PD23
+Added Net: Name=NetAllwinner A1_LCD_D23/PD23
+Added Pin To Net: NetName=NetAllwinner A1_VCC3 Pin=Allwinner A1-VCC3
+Added Net: Name=NetAllwinner A1_VCC3
+Added Pin To Net: NetName=NetIC*3_6 Pin=X7-2
+Added Net: Name=NetIC*3_6
+Added Net: Name=NetU?_11
+Added Net: Name=NetU?_12
+Added Pin To Net: NetName=NetU?_16 Pin=X7-1
+Added Pin To Net: NetName=NetU?_16 Pin=X7-1
+Added Pin To Net: NetName=NetU?_16 Pin=X7-1
+Added Net: Name=NetU?_16

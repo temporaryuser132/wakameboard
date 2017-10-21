@@ -1,0 +1,76 @@
+Importer Log Report
+Project : WakameBoard.PrjPcb
+
+Section : Analyze Document - C:\Users\Administrador\Desktop\lbr\WakamelibGOOD.lbr
+    Analyzing data of C:\Users\Administrador\Desktop\lbr\WakamelibGOOD.lbr
+    Load settings
+    Load layers 60
+    Load Library library
+    Load Library ""
+    Load Packages 54
+    Load Symbols 33
+    Load DeviceSets 32
+EndSection
+
+Section : Analyze Document - C:\Users\Administrador\Desktop\WakameBoardSTG2\WakameBoard.sch
+    Analyzing data of C:\Users\Administrador\Desktop\WakameBoardSTG2\WakameBoard.sch
+    Load settings
+    Load layers 60
+    Load schematic
+    Load Libraries 11
+    Load Library "Wakamelib"
+    Load Packages 7
+    Load Symbols 7
+    Load DeviceSets 5
+    Load Library "WakamelibGOOD"
+    Load Packages 9
+    Load Symbols 9
+    Load DeviceSets 9
+    Load Library "jumper"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "con-pulse"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "docu-dummy"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "special"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "rcl"
+    Load Packages 140
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "supply2"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "switch"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "resistor"
+    Load Packages 75
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "capacitor-wima"
+    Load Packages 38
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 220
+    Load Sheets 1
+EndSection
+
+Section : Import Document - C:\Users\Administrador\Desktop\WakameBoardSTG2\WakameBoard.sch
+    ERROR: Could not find NET for PowerObject ! SUPPLY1
+    ERROR: Could not find NET for PowerObject ! SUPPLY2
+    ERROR: Could not find NET for PowerObject ! SUPPLY3
+    ERROR: Could not find NET for PowerObject ! SUPPLY4
+EndSection

@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetJ37_2 Pin=J?-1
+Removed Pin From Net: NetName=NetJ?_2 Pin=J?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=U$4-ACIN1
+Removed Pin From Net: NetName=NetC?_2 Pin=U$4-ACIN
+Removed Pin From Net: NetName=NetC?_1 Pin=U$7-52
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=J?(0R/10)
+Added Component: Designator=J?(0R/10)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=N$232 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetJ21_2 Pin=J56-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ37_2 Pin=J?-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J?-2
+Added Pin To Net: NetName=NetJ46_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-VINT
+Added Pin To Net: NetName=NetC?_1 Pin=U$4-VREF
+Added Class: Name=WakameBoard
+Added Room: Name=WakameBoard

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C9-2
+Removed Pin From Net: NetName=NetC17_2 Pin=C17-2
+Removed Pin From Net: NetName=NetC3_2 Pin=C38-2
+Removed Pin From Net: NetName=NetC1_1 Pin=IC1-4
+Removed Pin From Net: NetName=NetR7_1 Pin=R7-1
+Removed Pin From Net: NetName=NetC1_1 Pin=X1-4
+Removed Pin From Net: NetName=NetU$2_USBDN1 Pin=X4-2
+Removed Pin From Net: NetName=NetC1_1 Pin=X4-4
+Added Component: Designator=R?(AXIAL-0.4)
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetAXP1_APS Pin=C8-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_DC3SET Pin=C9-2
+Added Pin To Net: NetName=NetC1_1 Pin=C9-2
+Added Pin To Net: NetName=NetADV1_13 Pin=C17-1
+Added Pin To Net: NetName=NetC1_1 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetC1_1 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetC32_2 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=NetU$2_USBDN1 Pin=R?-2
+Change Net Name : Old Net Name=NetU$2_USBDN1 New Net Name=NetR?_2
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=X4-4
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=X4-2
+Added Net: Name=NetR?_1

@@ -1,0 +1,46 @@
+Added Component: Designator=U?(DIP16)
+Added Component: Designator=U?(DIP16)
+Added Component: Designator=U?(DIP16)
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetAXP1_APS Pin=C8-2
+Added Pin To Net: NetName=NetC1_1 Pin=C8-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_DC3SET Pin=C9-2
+Added Pin To Net: NetName=NetC1_1 Pin=C9-2
+Added Pin To Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=NetC1_1 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetC32_2 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=NetD1_A Pin=R7-2
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D3/PD3 Pin=U?-1
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D10/PD10 Pin=U?-1
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D18/PD18 Pin=U?-1
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D4/PD4 Pin=U?-2
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D11/PD11 Pin=U?-2
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D19/PD19 Pin=U?-2
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D5/PD5 Pin=U?-3
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D12/PD12 Pin=U?-3
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D20/PD20 Pin=U?-3
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D6/PD6 Pin=U?-4
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D13/PD13 Pin=U?-4
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D7/PD7 Pin=U?-5
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D14/PD14 Pin=U?-5
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D22/PD22 Pin=U?-5
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D15/PD15 Pin=U?-6
+Added Pin To Net: NetName=NetAllwinner A1_LCD_D23/PD23 Pin=U?-6
+Added Pin To Net: NetName=NetAllwinner A1_VCC3 Pin=U?-6
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Pin To Net: NetName=NetIC*3_6 Pin=U?-12
+Added Pin To Net: NetName=NetIC*3_6 Pin=U?-12
+Added Pin To Net: NetName=NetU?_12 Pin=U?-12
+Added Pin To Net: NetName=NetIC*3_6 Pin=U?-13
+Added Pin To Net: NetName=NetIC*3_6 Pin=U?-13
+Added Pin To Net: NetName=NetU?_12 Pin=U?-13
+Added Pin To Net: NetName=NetIC*3_6 Pin=U?-16
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16

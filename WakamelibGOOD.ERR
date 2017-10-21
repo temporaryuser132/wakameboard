@@ -1,0 +1,35 @@
+Altium Designer System: Library Component Rule Check
+PCB File : WakamelibGOOD
+Date     : 10/10/2017
+Time     : 14:53:05
+
+
+Name                Warnings
+------------------------------------------------------------------
+HDF15H                   Duplicate Pad Name On Pads Pad Free-1(-492.126mil,0mil)  Multi-Layer And Pad Free-1(171mil,100mil)  Multi-Layer
+HDF15H                   Duplicate Pad Name On Pads Pad Free-1(493mil,0mil)  Multi-Layer And Pad Free-1(171mil,100mil)  Multi-Layer
+
+HDF15V                   Duplicate Pad Name On Pads Pad Free-1(493mil,0mil)  Multi-Layer And Pad Free-1(-492.126mil,0mil)  Multi-Layer
+
+DVI-I-V                  Duplicate Pad Name On Pads Pad Free-1(-475mil,110mil)  Multi-Layer And Pad Free-1(-375mil,50mil)  Multi-Layer
+DVI-I-V                  Duplicate Pad Name On Pads Pad Free-1(475mil,110mil)  Multi-Layer And Pad Free-1(-375mil,50mil)  Multi-Layer
+DVI-I-V                  Duplicate Pad Name On Pads Pad Free-1(-620mil,-183mil)  Multi-Layer And Pad Free-1(-375mil,50mil)  Multi-Layer
+DVI-I-V                  Duplicate Pad Name On Pads Pad Free-1(620mil,-183mil)  Multi-Layer And Pad Free-1(-375mil,50mil)  Multi-Layer
+
+USB-A003                 Duplicate Pad Name On Pads Pad Free-1(-258.661mil,405mil)  Multi-Layer And Pad Free-1(-137.795mil,552mil)  Top Layer
+USB-A003                 Duplicate Pad Name On Pads Pad Free-1(259mil,405mil)  Multi-Layer And Pad Free-1(-137.795mil,552mil)  Top Layer
+
+5501-1LED                Duplicate Pad Name On Pads Pad Free-1(300mil,-150mil)  Multi-Layer And Pad Free-1(-300mil,150mil)  Multi-Layer
+
+5501-2LED                Duplicate Pad Name On Pads Pad Free-1(300mil,-150mil)  Multi-Layer And Pad Free-1(-300mil,150mil)  Multi-Layer
+
+5511-1LED                Duplicate Pad Name On Pads Pad Free-1(300mil,-150mil)  Multi-Layer And Pad Free-1(-300mil,150mil)  Multi-Layer
+
+5511-2LED                Duplicate Pad Name On Pads Pad Free-1(300mil,-150mil)  Multi-Layer And Pad Free-1(-300mil,150mil)  Multi-Layer
+
+FX8-100S-SV              Duplicate Pad Name On Pads Pad Free-1(-673.228mil,71mil)  Multi-Layer And Pad Free-1(-578.74mil,113mil)  Top Layer
+FX8-100S-SV              Duplicate Pad Name On Pads Pad Free-1(674mil,71mil)  Multi-Layer And Pad Free-1(-578.74mil,113mil)  Top Layer
+
+RJ45-SHIELD1             Duplicate Pad Name On Pads Pad Free-1(-75mil,300mil)  Multi-Layer And Pad Free-1(-125mil,50mil)  Multi-Layer
+RJ45-SHIELD1             Duplicate Pad Name On Pads Pad Free-1(-525mil,300mil)  Multi-Layer And Pad Free-1(-125mil,50mil)  Multi-Layer
+

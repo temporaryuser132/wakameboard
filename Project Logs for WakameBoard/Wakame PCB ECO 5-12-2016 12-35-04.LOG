@@ -1,0 +1,404 @@
+Change Component Designator: OldDesignator=ADV1 NewDesignator=ADV7125
+Change Component Designator: OldDesignator=Allwinner A1 NewDesignator=Allwinner A13
+Change Component Designator: OldDesignator=AXP1 NewDesignator=AXP202
+Change Component Designator: OldDesignator=C1 NewDesignator=C10
+Change Component Designator: OldDesignator=C?1 NewDesignator=C31
+Change Component Designator: OldDesignator=C?2 NewDesignator=C4
+Change Component Designator: OldDesignator=C?3 NewDesignator=C20
+Change Component Designator: OldDesignator=C?4 NewDesignator=C17
+Change Component Designator: OldDesignator=C?5 NewDesignator=C19
+Change Component Designator: OldDesignator=C?6 NewDesignator=C13
+Change Component Designator: OldDesignator=C?7 NewDesignator=C18
+Change Component Designator: OldDesignator=C?8 NewDesignator=C22
+Change Component Designator: OldDesignator=C?9 NewDesignator=C24
+Change Component Designator: OldDesignator=C?10 NewDesignator=C14
+Change Component Designator: OldDesignator=C?11 NewDesignator=C26
+Change Component Designator: OldDesignator=C?12 NewDesignator=C30
+Change Component Designator: OldDesignator=C?13 NewDesignator=C12
+Change Component Designator: OldDesignator=C?14 NewDesignator=C5
+Change Component Designator: OldDesignator=C?15 NewDesignator=C38
+Change Component Designator: OldDesignator=C?16 NewDesignator=C15
+Change Component Designator: OldDesignator=C?17 NewDesignator=C8
+Change Component Designator: OldDesignator=C?18 NewDesignator=C7
+Change Component Designator: OldDesignator=C?19 NewDesignator=C34
+Change Component Designator: OldDesignator=C?20 NewDesignator=C33
+Change Component Designator: OldDesignator=C?21 NewDesignator=C3
+Change Component Designator: OldDesignator=C?22 NewDesignator=C25
+Change Component Designator: OldDesignator=C?23 NewDesignator=C9
+Change Component Designator: OldDesignator=C?24 NewDesignator=C29
+Change Component Designator: OldDesignator=C?25 NewDesignator=C32
+Change Component Designator: OldDesignator=C?26 NewDesignator=C36
+Change Component Designator: OldDesignator=C?27 NewDesignator=C16
+Change Component Designator: OldDesignator=C?28 NewDesignator=C35
+Change Component Designator: OldDesignator=C?29 NewDesignator=C27
+Change Component Designator: OldDesignator=C?30 NewDesignator=C28
+Change Component Designator: OldDesignator=C?31 NewDesignator=C37
+Change Component Designator: OldDesignator=C?32 NewDesignator=C23
+Change Component Designator: OldDesignator=C?33 NewDesignator=C39
+Change Component Designator: OldDesignator=C?34 NewDesignator=C1
+Change Component Designator: OldDesignator=C?35 NewDesignator=C21
+Change Component Designator: OldDesignator=C?36 NewDesignator=C11
+Change Component Designator: OldDesignator=C?37 NewDesignator=C6
+Change Component Designator: OldDesignator=D?1 NewDesignator=D1
+Change Component Designator: OldDesignator=D?2 NewDesignator=D2
+Change Component Designator: OldDesignator=D?3 NewDesignator=D3
+Change Component Designator: OldDesignator=L?1 NewDesignator=L1
+Change Component Designator: OldDesignator=L?2 NewDesignator=L2
+Change Component Designator: OldDesignator=LAN1 NewDesignator=LAN9500
+Change Component Designator: OldDesignator=R?1 NewDesignator=R7
+Change Component Designator: OldDesignator=R?2 NewDesignator=R8
+Change Component Designator: OldDesignator=R?3 NewDesignator=R6
+Change Component Designator: OldDesignator=R?4 NewDesignator=R1
+Change Component Designator: OldDesignator=R?5 NewDesignator=R5
+Change Component Designator: OldDesignator=R?6 NewDesignator=R2
+Change Component Designator: OldDesignator=R?7 NewDesignator=R3
+Change Component Designator: OldDesignator=R?8 NewDesignator=R4
+Change Component Designator: OldDesignator=R?9 NewDesignator=R9
+Change Component Designator: OldDesignator=T?1 NewDesignator=T1
+Change Component Designator: OldDesignator=U$2 NewDesignator=U$3
+Change Component Designator: OldDesignator=U$3 NewDesignator=U$4
+Change Component Designator: OldDesignator=U?1 NewDesignator=U1
+Change Component Designator: OldDesignator=U?2 NewDesignator=U2
+Change Component Designator: OldDesignator=X1 NewDesignator=X2
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Added Component: Designator=MK1(PIN2)
+Added Pin To Net: NetName=NetC2_1 Pin=C10-1
+Added Pin To Net: NetName=NetC2_1 Pin=C26-2
+Added Pin To Net: NetName=NetC2_1 Pin=C27-2
+Added Pin To Net: NetName=NetC2_1 Pin=C28-1
+Added Pin To Net: NetName=NetC2_1 Pin=C29-2
+Added Pin To Net: NetName=N$232 Pin=C30-2
+Added Pin To Net: NetName=NetC2_1 Pin=C31-2
+Added Pin To Net: NetName=NetC2_1 Pin=C32-1
+Added Pin To Net: NetName=NetU$1_DDR3_DQS1 Pin=U2-11
+Added Pin To Net: NetName=NetU$1_DDR3_BA0 Pin=U2-20
+Change Net Name : Old Net Name=NetIC4_1 New Net Name=NetAllwinner A13_SDC0_D3/PF4
+Change Net Name : Old Net Name=NetIC4_2 New Net Name=NetAllwinner A13_SDCO_D2/PF5
+Change Net Name : Old Net Name=NetIC4_6 New Net Name=NetAllwinner A13_SDC0_CMD/PF3
+Change Net Name : Old Net Name=NetIC4_8 New Net Name=NetAllwinner A13_TWI0-SCK/PB0
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetADV7125_37
+Change Net Name : Old Net Name=NetT?_9 New Net Name=NetLAN9500_5
+Change Net Name : Old Net Name=NetT?_11 New Net Name=NetLAN9500_6
+Change Net Name : Old Net Name=NetT?_14 New Net Name=NetLAN9500_2
+Change Net Name : Old Net Name=NetT?_16 New Net Name=NetLAN9500_3
+Change Net Name : Old Net Name=NetU$1_DDR3_A0 New Net Name=NetAllwinner A13_DDR3_A0
+Change Net Name : Old Net Name=NetU$1_DDR3_A1 New Net Name=NetAllwinner A13_DDR3_A1
+Change Net Name : Old Net Name=NetU$1_DDR3_A2 New Net Name=NetAllwinner A13_DDR3_A2
+Change Net Name : Old Net Name=NetU$1_DDR3_A3 New Net Name=NetAllwinner A13_DDR3_A3
+Change Net Name : Old Net Name=NetU$1_DDR3_A4 New Net Name=NetAllwinner A13_DDR3_A4
+Change Net Name : Old Net Name=NetU$1_DDR3_A5 New Net Name=NetAllwinner A13_DDR3_A5
+Change Net Name : Old Net Name=NetU$1_DDR3_A6 New Net Name=NetAllwinner A13_DDR3_A6
+Change Net Name : Old Net Name=NetU$1_DDR3_A7 New Net Name=NetAllwinner A13_DDR3_A7
+Change Net Name : Old Net Name=NetU$1_DDR3_A8 New Net Name=NetAllwinner A13_DDR3_A8
+Change Net Name : Old Net Name=NetU$1_DDR3_A9 New Net Name=NetAllwinner A13_DDR3_A9
+Change Net Name : Old Net Name=NetU$1_DDR3_A10 New Net Name=NetAllwinner A13_DDR3_A10
+Change Net Name : Old Net Name=NetU$1_DDR3_A11 New Net Name=NetAllwinner A13_DDR3_A11
+Change Net Name : Old Net Name=NetU$1_DDR3_A12 New Net Name=NetAllwinner A13_DDR3_A12
+Change Net Name : Old Net Name=NetU$1_DDR3_BA0 New Net Name=NetAllwinner A13_DDR3_BA0
+Change Net Name : Old Net Name=NetU$1_DDR3_CAS New Net Name=NetAllwinner A13_DDR3_CAS
+Change Net Name : Old Net Name=NetU$1_DDR3_DQS0 New Net Name=NetAllwinner A13_DDR3_DQS0
+Change Net Name : Old Net Name=NetU$1_DDR3_DQS1 New Net Name=NetAllwinner A13_DDR3_DQS1
+Change Net Name : Old Net Name=NetU$1_DDR3_WE New Net Name=NetAllwinner A13_DDR3_WE
+Change Net Name : Old Net Name=NetU$1_LCD_D2/PD2 New Net Name=NetADV7125_16
+Change Net Name : Old Net Name=NetU$1_LCD_D7/PD7 New Net Name=NetADV7125_19
+Change Net Name : Old Net Name=NetU$1_LCD_D10/PD10 New Net Name=NetADV7125_8
+Change Net Name : Old Net Name=NetU$1_LCD_D12/PD12 New Net Name=NetADV7125_3
+Change Net Name : Old Net Name=NetU$1_LCD_D13/PD13 New Net Name=NetADV7125_4
+Change Net Name : Old Net Name=NetU$1_LCD_D15/PD15 New Net Name=NetADV7125_6
+Change Net Name : Old Net Name=NetU$1_LCD_D18/PD18 New Net Name=NetADV7125_7
+Change Net Name : Old Net Name=NetU$1_LCD_D19/PD19 New Net Name=NetADV7125_45
+Change Net Name : Old Net Name=NetU$1_LCD_D20/PD20 New Net Name=NetADV7125_41
+Change Net Name : Old Net Name=NetU$1_LCD_D21/PD21 New Net Name=NetADV7125_42
+Change Net Name : Old Net Name=NetU$1_LCD_D22/PD22 New Net Name=NetADV7125_44
+Change Net Name : Old Net Name=NetU$1_LCD_D23/PD23 New Net Name=NetADV7125_46
+Change Net Name : Old Net Name=NetU$1_LCD_HSYNC/PD26 New Net Name=NetAllwinner A13_LCD_HSYNC/PD26
+Change Net Name : Old Net Name=NetU$1_LCD_VSYNC/PD27 New Net Name=NetAllwinner A13_LCD_VSYNC/PD27
+Change Net Name : Old Net Name=NetU$1_UDM1 New Net Name=NetAllwinner A13_UDM1
+Change Net Name : Old Net Name=NetU$1_UDP0 New Net Name=NetAllwinner A13_UDP0
+Change Net Name : Old Net Name=NetU$1_UDP1 New Net Name=NetAllwinner A13_UDP1
+Change Net Name : Old Net Name=NetU$1_V33_USB New Net Name=NetAllwinner A13_V33_USB
+Change Net Name : Old Net Name=NetU$3_27 New Net Name=NetADV7125_27
+Change Net Name : Old Net Name=NetU$3_31 New Net Name=NetADV7125_31
+Change Net Name : Old Net Name=NetU$3_33 New Net Name=NetADV7125_33
+Change Net Name : Old Net Name=NetU$4_LDO3IN New Net Name=NetAXP202_LDO3IN
+Change Net Name : Old Net Name=NetU$11_TEST0 New Net Name=NetU$3_TEST0
+Change Net Name : Old Net Name=NetU$11_USBDN1 New Net Name=NetU$3_USBDN1
+Change Net Name : Old Net Name=NetU$11_USBDN2 New Net Name=NetU$3_USBDN2
+Change Net Name : Old Net Name=NetU$11_USBDN3 New Net Name=NetU$3_USBDN3
+Change Net Name : Old Net Name=NetU$11_USBDN4 New Net Name=NetU$3_USBDN4
+Change Net Name : Old Net Name=NetU$11_USBDN5 New Net Name=NetU$3_USBDN5
+Change Net Name : Old Net Name=NetU$11_USBDN6 New Net Name=NetU$3_USBDN6
+Change Net Name : Old Net Name=NetU$11_USBDP1 New Net Name=NetU$3_USBDP1
+Change Net Name : Old Net Name=NetU$11_USBDP2 New Net Name=NetU$3_USBDP2
+Change Net Name : Old Net Name=NetU$11_USBDP3 New Net Name=NetU$3_USBDP3
+Change Net Name : Old Net Name=NetU$11_USBDP4 New Net Name=NetU$3_USBDP4
+Change Net Name : Old Net Name=NetU$11_USBDP5 New Net Name=NetU$3_USBDP5
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-1
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-2
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-14
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-15
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-25
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-26
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-39
+Added Pin To Net: NetName=NetADV7125_1 Pin=ADV7125-40
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-AGND
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-BATSENSE
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-CHSENSE
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-LDO3
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-N_OE
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-PGND2
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-SCK
+Added Pin To Net: NetName=NetADV7125_1 Pin=AXP202-VIN2
+Added Pin To Net: NetName=NetADV7125_1 Pin=C11-1
+Added Pin To Net: NetName=NetADV7125_1 Pin=C13-2
+Added Pin To Net: NetName=NetADV7125_1 Pin=C23-1
+Added Pin To Net: NetName=NetADV7125_1 Pin=C24-1
+Added Pin To Net: NetName=NetADV7125_1 Pin=C25-1
+Added Pin To Net: NetName=NetADV7125_1 Pin=C36-1
+Added Pin To Net: NetName=NetADV7125_1 Pin=C37-2
+Added Pin To Net: NetName=NetADV7125_1 Pin=X1-4
+Added Pin To Net: NetName=NetADV7125_1 Pin=X2-4
+Added Net: Name=NetADV7125_1
+Added Pin To Net: NetName=NetADV7125_13 Pin=ADV7125-13
+Added Pin To Net: NetName=NetADV7125_13 Pin=ADV7125-29
+Added Pin To Net: NetName=NetADV7125_13 Pin=ADV7125-30
+Added Pin To Net: NetName=NetADV7125_13 Pin=C35-1
+Added Pin To Net: NetName=NetADV7125_13 Pin=C36-2
+Added Pin To Net: NetName=NetADV7125_13 Pin=C37-1
+Added Pin To Net: NetName=NetADV7125_13 Pin=L2-1
+Added Net: Name=NetADV7125_13
+Added Pin To Net: NetName=NetADV7125_35 Pin=ADV7125-35
+Added Pin To Net: NetName=NetADV7125_35 Pin=C39-1
+Added Net: Name=NetADV7125_35
+Added Pin To Net: NetName=NetAllwinner A13_CSI_PCLK/SPI2_CS0/EINT14/PE0 Pin=IC1-5
+Added Net: Name=NetAllwinner A13_CSI_PCLK/SPI2_CS0/EINT14/PE0
+Added Pin To Net: NetName=NetAllwinner A13_DDR3_RAS Pin=Allwinner A13-DDR3_RAS
+Added Pin To Net: NetName=NetAllwinner A13_DDR3_RAS Pin=U2-18
+Added Net: Name=NetAllwinner A13_DDR3_RAS
+Added Pin To Net: NetName=NetAllwinner A13_HPCOM Pin=Allwinner A13-HPCOM
+Added Pin To Net: NetName=NetAllwinner A13_HPCOM Pin=Allwinner A13-HPOUTL
+Added Pin To Net: NetName=NetAllwinner A13_HPCOM Pin=C1-1
+Added Pin To Net: NetName=NetAllwinner A13_HPCOM Pin=D1-C
+Added Pin To Net: NetName=NetAllwinner A13_HPCOM Pin=U$4-LEFT2
+Added Net: Name=NetAllwinner A13_HPCOM
+Added Pin To Net: NetName=NetAllwinner A13_HPOUTR Pin=Allwinner A13-HPOUTR
+Added Pin To Net: NetName=NetAllwinner A13_HPOUTR Pin=C33-1
+Added Pin To Net: NetName=NetAllwinner A13_HPOUTR Pin=D3-C
+Added Pin To Net: NetName=NetAllwinner A13_HPOUTR Pin=U$4-RIGHT1
+Added Pin To Net: NetName=NetAllwinner A13_HPOUTR Pin=U$4-RIGHT2
+Added Net: Name=NetAllwinner A13_HPOUTR
+Added Pin To Net: NetName=NetAllwinner A13_MICIN1 Pin=Allwinner A13-MICIN1
+Added Pin To Net: NetName=NetAllwinner A13_MICIN1 Pin=MK1-1
+Added Net: Name=NetAllwinner A13_MICIN1
+Added Pin To Net: NetName=NetAllwinner A13_VMIC Pin=Allwinner A13-VMIC
+Added Pin To Net: NetName=NetAllwinner A13_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetAllwinner A13_VMIC Pin=R3-1
+Added Net: Name=NetAllwinner A13_VMIC
+Added Pin To Net: NetName=NetAXP202_ACIN Pin=AXP202-ACIN
+Added Pin To Net: NetName=NetAXP202_ACIN Pin=AXP202-ACIN1
+Added Pin To Net: NetName=NetAXP202_ACIN Pin=C24-2
+Added Net: Name=NetAXP202_ACIN
+Added Pin To Net: NetName=NetAXP202_APS Pin=AXP202-APS
+Added Pin To Net: NetName=NetAXP202_APS Pin=C8-2
+Added Net: Name=NetAXP202_APS
+Added Pin To Net: NetName=NetAXP202_DC3SET Pin=AXP202-DC3SET
+Added Pin To Net: NetName=NetAXP202_DC3SET Pin=C22-2
+Added Net: Name=NetAXP202_DC3SET
+Added Pin To Net: NetName=NetAXP202_GPIO0 Pin=AXP202-GPIO0
+Added Pin To Net: NetName=NetAXP202_GPIO0 Pin=C15-2
+Added Net: Name=NetAXP202_GPIO0
+Added Pin To Net: NetName=NetAXP202_IPSOUT1 Pin=AXP202-IPSOUT1
+Added Pin To Net: NetName=NetAXP202_IPSOUT1 Pin=C25-2
+Added Net: Name=NetAXP202_IPSOUT1
+Added Pin To Net: NetName=NetAXP202_LDO1 Pin=AXP202-LDO1
+Added Pin To Net: NetName=NetAXP202_LDO1 Pin=AXP202-PWROK
+Added Pin To Net: NetName=NetAXP202_LDO1 Pin=C18-1
+Added Pin To Net: NetName=NetAXP202_LDO1 Pin=C22-1
+Added Net: Name=NetAXP202_LDO1
+Added Pin To Net: NetName=NetAXP202_LDO4 Pin=AXP202-LDO4
+Added Pin To Net: NetName=NetAXP202_LDO4 Pin=C16-1
+Added Pin To Net: NetName=NetAXP202_LDO4 Pin=C17-1
+Added Net: Name=NetAXP202_LDO4
+Added Pin To Net: NetName=NetAXP202_LDO24IN Pin=AXP202-LDO24IN
+Added Pin To Net: NetName=NetAXP202_LDO24IN Pin=AXP202-VIN3
+Added Pin To Net: NetName=NetAXP202_LDO24IN Pin=C9-1
+Added Net: Name=NetAXP202_LDO24IN
+Added Pin To Net: NetName=NetAXP202_LX1 Pin=AXP202-LX1
+Added Net: Name=NetAXP202_LX1
+Added Pin To Net: NetName=NetAXP202_LX2 Pin=AXP202-LX2
+Added Net: Name=NetAXP202_LX2
+Added Pin To Net: NetName=NetAXP202_LX Pin=AXP202-LX
+Added Net: Name=NetAXP202_LX
+Added Pin To Net: NetName=NetAXP202_PGND1 Pin=AXP202-PGND1
+Added Pin To Net: NetName=NetAXP202_PGND1 Pin=C30-1
+Added Net: Name=NetAXP202_PGND1
+Added Pin To Net: NetName=NetAXP202_PGND3 Pin=AXP202-PGND3
+Added Pin To Net: NetName=NetAXP202_PGND3 Pin=AXP202-VREF
+Added Pin To Net: NetName=NetAXP202_PGND3 Pin=C13-1
+Added Net: Name=NetAXP202_PGND3
+Added Pin To Net: NetName=NetAXP202_PWRON Pin=AXP202-PWRON
+Added Pin To Net: NetName=NetAXP202_PWRON Pin=S1-1A
+Added Net: Name=NetAXP202_PWRON
+Added Pin To Net: NetName=NetAXP202_TS Pin=AXP202-TS
+Added Pin To Net: NetName=NetAXP202_TS Pin=R8-2
+Added Net: Name=NetAXP202_TS
+Added Pin To Net: NetName=NetAXP202_VBUS Pin=AXP202-VBUS
+Added Pin To Net: NetName=NetAXP202_VBUS Pin=C23-2
+Added Net: Name=NetAXP202_VBUS
+Added Pin To Net: NetName=NetAXP202_VINT Pin=AXP202-VINT
+Added Pin To Net: NetName=NetAXP202_VINT Pin=C18-2
+Added Net: Name=NetAXP202_VINT
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=MK1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R1-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=J2-2
+Added Pin To Net: NetName=NetC5_1 Pin=U$3-XTAL2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=J2-1
+Added Pin To Net: NetName=NetC5_2 Pin=U$3-XTAL1/CLKIN
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C7-2
+Added Pin To Net: NetName=NetC6_2 Pin=C9-2
+Added Pin To Net: NetName=NetC6_2 Pin=C12-2
+Added Pin To Net: NetName=NetC6_2 Pin=C14-2
+Added Pin To Net: NetName=NetC6_2 Pin=C15-1
+Added Pin To Net: NetName=NetC6_2 Pin=C16-2
+Added Pin To Net: NetName=NetC6_2 Pin=C17-2
+Added Pin To Net: NetName=NetC6_2 Pin=IC1-4
+Added Pin To Net: NetName=NetC6_2 Pin=U1-2
+Added Pin To Net: NetName=NetC6_2 Pin=U$1-GND
+Added Pin To Net: NetName=NetC6_2 Pin=U$1-GND1
+Added Pin To Net: NetName=NetC6_2 Pin=X3-4
+Added Pin To Net: NetName=NetC6_2 Pin=X4-4
+Added Pin To Net: NetName=NetC6_2 Pin=X5-4
+Added Pin To Net: NetName=NetC6_2 Pin=X6-4
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=LAN9500-25
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R6-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=C14-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=C20-1
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=J1-2
+Added Pin To Net: NetName=NetC19_2 Pin=LAN9500-19
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=J1-1
+Added Pin To Net: NetName=NetC20_2 Pin=LAN9500-18
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=D2-C
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R5-1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=LAN9500-52
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=C29-1
+Added Pin To Net: NetName=NetC27_1 Pin=LAN9500-51
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=LAN9500-21
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=LAN9500-9
+Added Pin To Net: NetName=NetC32_2 Pin=LAN9500-48
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=R4-1
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=L2-2
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=L1-1
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=D2-A
+Added Pin To Net: NetName=NetD1_A Pin=D3-A
+Added Pin To Net: NetName=NetD1_A Pin=R2-2
+Added Pin To Net: NetName=NetD1_A Pin=R4-2
+Added Pin To Net: NetName=NetD1_A Pin=R5-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetIC*1_2 Pin=U$3-OCS2_N
+Added Net: Name=NetIC*1_2
+Added Pin To Net: NetName=NetIC*1_3 Pin=U$3-OCS3_N
+Added Net: Name=NetIC*1_3
+Added Pin To Net: NetName=NetIC*1_4 Pin=U$3-PRTPWR3
+Added Net: Name=NetIC*1_4
+Added Pin To Net: NetName=NetIC*1_5 Pin=X3-1
+Added Pin To Net: NetName=NetIC*1_5 Pin=X3-1
+Added Pin To Net: NetName=NetIC*1_5 Pin=X3-1
+Added Net: Name=NetIC*1_5
+Added Pin To Net: NetName=NetIC*1_7 Pin=U1-1
+Added Net: Name=NetIC*1_7
+Added Pin To Net: NetName=NetIC*1_8 Pin=X5-1
+Added Pin To Net: NetName=NetIC*1_8 Pin=X5-1
+Added Pin To Net: NetName=NetIC*1_8 Pin=X5-1
+Added Net: Name=NetIC*1_8
+Added Pin To Net: NetName=NetIC*2_1 Pin=U$3-PRTPWR4
+Added Net: Name=NetIC*2_1
+Added Pin To Net: NetName=NetIC*2_2 Pin=U$3-OCS4_N
+Added Net: Name=NetIC*2_2
+Added Pin To Net: NetName=NetIC*2_3 Pin=U$3-VSS5
+Added Net: Name=NetIC*2_3
+Added Pin To Net: NetName=NetIC*2_4 Pin=U$3-PRTPWR5
+Added Net: Name=NetIC*2_4
+Added Pin To Net: NetName=NetIC*2_5 Pin=X4-1
+Added Pin To Net: NetName=NetIC*2_5 Pin=X4-1
+Added Pin To Net: NetName=NetIC*2_5 Pin=X4-1
+Added Net: Name=NetIC*2_5
+Added Pin To Net: NetName=NetIC*2_8 Pin=X6-1
+Added Pin To Net: NetName=NetIC*2_8 Pin=X6-1
+Added Pin To Net: NetName=NetIC*2_8 Pin=X6-1
+Added Net: Name=NetIC*2_8
+Added Pin To Net: NetName=NetIC*3_1 Pin=U$3-PRTPWR7
+Added Net: Name=NetIC*3_1
+Added Pin To Net: NetName=NetIC*3_3 Pin=U$3-OCS6_N
+Added Net: Name=NetIC*3_3
+Added Pin To Net: NetName=NetIC*3_4 Pin=U$3-VDD18.2
+Added Net: Name=NetIC*3_4
+Added Pin To Net: NetName=NetIC*3_5 Pin=X2-1
+Added Pin To Net: NetName=NetIC*3_5 Pin=X2-1
+Added Pin To Net: NetName=NetIC*3_5 Pin=X2-1
+Added Net: Name=NetIC*3_5
+Added Pin To Net: NetName=NetIC*3_8 Pin=X1-1
+Added Pin To Net: NetName=NetIC*3_8 Pin=X1-1
+Added Pin To Net: NetName=NetIC*3_8 Pin=X1-1
+Added Net: Name=NetIC*3_8
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-3
+Added Pin To Net: NetName=NetR7_1 Pin=U$1-+
+Added Net: Name=NetR7_1

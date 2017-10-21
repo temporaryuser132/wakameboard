@@ -25,7 +25,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 
 [Document1]
-DocumentPath=WakamelibGOOD.PCBLIB
+DocumentPath=Wakame.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -39,7 +39,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [Document2]
-DocumentPath=WakamelibGOOD.SCHLIB
+DocumentPath=WakameBoard.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [Document3]
-DocumentPath=Wakame.PcbDoc
+DocumentPath=..\WakameLibGOOD.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -39,49 +39,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [Document2]
-DocumentPath=WakamelibGOOD.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-
-[Document3]
-DocumentPath=WakamelibGOOD.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-
-[Document4]
 DocumentPath=WakameBoard.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-
-[Document5]
-DocumentPath=WakameBoard.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -99,6 +57,9 @@ DocumentPath=Project Outputs for WakameBoard\WakameBoard.BOM
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for WakameBoard\WakameBoard.CSV
+
+[GeneratedDocument3]
+DocumentPath=WakamelibGOOD.PCBLIB.htm
 
 [SearchPath1]
 Path=allthelibs\*.*

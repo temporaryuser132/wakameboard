@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=NetIC1_M3 Pin=U$1-DDR3_A14
+Removed Pin From Net: NetName=NetC?_1 Pin=U$7-52
+Added Component: Designator=C?(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=N$232 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=J19-1
+Added Pin To Net: NetName=NetC?_2 Pin=J19-2
+Added Pin To Net: NetName=NetC?_2 Pin=J25-1
+Added Pin To Net: NetName=NetC?_1 Pin=J25-2
+Added Pin To Net: NetName=NetIC1_M3 Pin=U$1-DDR3_BA0
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-ACIN1
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-ACIN
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-APS
+Added Pin To Net: NetName=NetC?_1 Pin=U$4-DCDC3
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-GPIO0
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-IPSOUT1
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-LDO1
+Added Pin To Net: NetName=NetC?_1 Pin=U$4-LDO4
+Added Pin To Net: NetName=NetC?_1 Pin=U$4-LDO24IN
+Added Pin To Net: NetName=NetC?_1 Pin=U$4-PGND1
+Added Pin To Net: NetName=NetC?_1 Pin=U$4-VIN3
+Added Pin To Net: NetName=NetC?_2 Pin=U$4-VINT
+Added Pin To Net: NetName=NetC?_1 Pin=U$6-GND1
+Added Pin To Net: NetName=NetC?_1 Pin=U$6-GND
+Added Pin To Net: NetName=NetC?_2 Pin=U$7-18
+Added Pin To Net: NetName=NetC?_2 Pin=U$7-19
+Added Pin To Net: NetName=NetC?_1 Pin=U$7-25
+Added Pin To Net: NetName=NetC?_1 Pin=U$7-35
+Added Pin To Net: NetName=NetC?_1 Pin=U$7-48
+Added Pin To Net: NetName=NetC?_1 Pin=U$7-51
+Added Pin To Net: NetName=NetC?_1 Pin=U$7-52
+Added Pin To Net: NetName=NetC?_1 Pin=U$11-XTAL2
+Added Pin To Net: NetName=NetC?_1 Pin=X2-4
+Added Pin To Net: NetName=NetC?_1 Pin=X3-4
+Added Pin To Net: NetName=NetC?_1 Pin=X6-4
+Added Pin To Net: NetName=NetC?_1 Pin=X7-4
+Added Pin To Net: NetName=NetIC1_E4 Pin=IC1-E4
+Added Pin To Net: NetName=NetIC1_E4 Pin=U$1-DDR3_D0
+Added Net: Name=NetIC1_E4
+Added Pin To Net: NetName=NetIC1_E8 Pin=IC1-E8
+Added Pin To Net: NetName=NetIC1_E8 Pin=U$1-DDR3_DM0
+Added Net: Name=NetIC1_E8
+Added Pin To Net: NetName=NetIC1_F4 Pin=IC1-F4
+Added Pin To Net: NetName=NetIC1_F4 Pin=U$1-DDR3_DQS1_N
+Added Net: Name=NetIC1_F4
+Added Pin To Net: NetName=NetIC1_F8 Pin=IC1-F8
+Added Pin To Net: NetName=NetIC1_F8 Pin=U$1-DDR3_D1
+Added Net: Name=NetIC1_F8
+Added Pin To Net: NetName=NetIC1_F9 Pin=IC1-F9
+Added Pin To Net: NetName=NetIC1_F9 Pin=U$1-DDR3_D3
+Added Net: Name=NetIC1_F9
+Added Pin To Net: NetName=NetIC1_G4 Pin=IC1-G4
+Added Pin To Net: NetName=NetIC1_G4 Pin=U$1-DDR3_DQS1
+Added Net: Name=NetIC1_G4
+Added Pin To Net: NetName=NetIC1_K4 Pin=IC1-K4
+Added Pin To Net: NetName=NetIC1_K4 Pin=U$1-DDR3_CAS
+Added Net: Name=NetIC1_K4
+Added Pin To Net: NetName=NetIC1_L4 Pin=IC1-L4
+Added Pin To Net: NetName=NetIC1_L4 Pin=U$1-DDR3_WE
+Added Net: Name=NetIC1_L4
+Added Pin To Net: NetName=NetIC1_N4 Pin=IC1-N4
+Added Pin To Net: NetName=NetIC1_N4 Pin=U$1-DDR3_A0
+Added Net: Name=NetIC1_N4

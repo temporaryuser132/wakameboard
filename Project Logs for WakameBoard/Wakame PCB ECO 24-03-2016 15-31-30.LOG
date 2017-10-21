@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetJ37_2 Pin=J?-1
+Removed Pin From Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=N$232 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetJ21_2 Pin=J56-1
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ37_2 Pin=J?-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J?-2
+Added Pin To Net: NetName=NetJ46_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component C? Cap
+Added Member To Class: ClassName=WakameBoard Member=Component J? Bridge 0R 10mm
+Added Member To Class: ClassName=WakameBoard Member=Component J? Bridge 0R 10mm

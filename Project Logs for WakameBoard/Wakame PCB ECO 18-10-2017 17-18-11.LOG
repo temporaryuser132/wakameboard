@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-1
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-2
+Removed Pin From Net: NetName=NetADV1_3 Pin=ADV1-3
+Removed Pin From Net: NetName=NetADV1_4 Pin=ADV1-4
+Removed Pin From Net: NetName=NetADV1_6 Pin=ADV1-6
+Removed Pin From Net: NetName=NetADV1_7 Pin=ADV1-7
+Removed Pin From Net: NetName=NetADV1_8 Pin=ADV1-8
+Removed Pin From Net: NetName=NetADV1_13 Pin=ADV1-13
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-14
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-15
+Removed Pin From Net: NetName=NetADV1_16 Pin=ADV1-16
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-25
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-26
+Removed Pin From Net: NetName=NetADV1_13 Pin=ADV1-29
+Removed Pin From Net: NetName=NetADV1_13 Pin=ADV1-30
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-39
+Removed Pin From Net: NetName=NetADV1_1 Pin=ADV1-40
+Removed Pin From Net: NetName=NetADV1_16 Pin=Allwinner A1-LCD_D2/PD2
+Removed Pin From Net: NetName=NetADV1_8 Pin=Allwinner A1-LCD_D10/PD10
+Removed Pin From Net: NetName=NetADV1_3 Pin=Allwinner A1-LCD_D12/PD12
+Removed Pin From Net: NetName=NetADV1_4 Pin=Allwinner A1-LCD_D13/PD13
+Removed Pin From Net: NetName=NetADV1_6 Pin=Allwinner A1-LCD_D15/PD15
+Removed Pin From Net: NetName=NetADV1_7 Pin=Allwinner A1-LCD_D18/PD18
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-AGND
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-BATSENSE
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-CHSENSE
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-LDO3
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-N_OE
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-PGND2
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-SCK
+Removed Pin From Net: NetName=NetADV1_1 Pin=AXP1-VIN2
+Removed Pin From Net: NetName=NetADV1_1 Pin=C6-2
+Removed Pin From Net: NetName=NetADV1_1 Pin=C7-1
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C9-2
+Removed Pin From Net: NetName=NetADV1_1 Pin=C13-1
+Removed Pin From Net: NetName=NetADV1_1 Pin=C14-1
+Removed Pin From Net: NetName=NetADV1_1 Pin=C20-1
+Removed Pin From Net: NetName=NetADV1_13 Pin=C20-2
+Removed Pin From Net: NetName=NetADV1_13 Pin=C34-1
+Removed Pin From Net: NetName=NetADV1_1 Pin=C34-2
+Removed Pin From Net: NetName=NetADV1_1 Pin=C35-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C38-2
+Removed Pin From Net: NetName=NetADV1_13 Pin=L2-1
+Removed Pin From Net: NetName=NetR7_1 Pin=R7-1
+Removed Pin From Net: NetName=NetADV1_1 Pin=X2-4
+Removed Pin From Net: NetName=NetADV1_1 Pin=X5-4
+Removed Pin From Net: NetName=NetC30_2 Pin=Y?-1
+Added Pin To Net: NetName=NetADV1_1 Pin=Allwinner A1-NMI_N
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-AGND
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-BATSENSE
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-CHSENSE
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-LDO3
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-N_OE
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-PGND2
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-SCK
+Added Pin To Net: NetName=NetADV1_3 Pin=AXP1-VIN2
+Added Pin To Net: NetName=NetADV1_3 Pin=C6-2
+Added Pin To Net: NetName=NetADV1_3 Pin=C7-1
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetAXP1_APS Pin=C8-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_DC3SET Pin=C9-2
+Added Pin To Net: NetName=NetC1_1 Pin=C9-2
+Added Pin To Net: NetName=NetADV1_3 Pin=C13-1
+Added Pin To Net: NetName=NetADV1_3 Pin=C14-1
+Added Pin To Net: NetName=NetC1_1 Pin=C17-2
+Added Pin To Net: NetName=NetADV1_3 Pin=C35-1
+Added Pin To Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetC1_1 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetAXP1_LX2 Pin=L?-1
+Added Pin To Net: NetName=NetC5_1 Pin=L?-2
+Added Pin To Net: NetName=NetADV1_1 Pin=LAN1-24
+Added Pin To Net: NetName=NetC32_2 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=NetADV1_4 Pin=U2-1
+Added Pin To Net: NetName=NetADV1_6 Pin=U2-3
+Added Pin To Net: NetName=NetADV1_7 Pin=U2-6
+Added Pin To Net: NetName=NetADV1_6 Pin=U2-9
+Added Pin To Net: NetName=NetADV1_7 Pin=U2-12
+Added Pin To Net: NetName=NetADV1_4 Pin=U2-14
+Added Pin To Net: NetName=NetADV1_4 Pin=U2-27
+Added Pin To Net: NetName=NetADV1_8 Pin=U2-28
+Added Pin To Net: NetName=NetADV1_8 Pin=U2-41
+Added Pin To Net: NetName=NetADV1_6 Pin=U2-43
+Added Pin To Net: NetName=NetADV1_7 Pin=U2-46
+Added Pin To Net: NetName=NetADV1_6 Pin=U2-49
+Added Pin To Net: NetName=NetADV1_7 Pin=U2-52
+Added Pin To Net: NetName=NetADV1_8 Pin=U2-54
+Added Pin To Net: NetName=NetADV1_13 Pin=X1-4
+Added Pin To Net: NetName=NetADV1_16 Pin=X2-4
+Added Pin To Net: NetName=NetADV1_13 Pin=X4-4
+Added Pin To Net: NetName=NetADV1_16 Pin=X5-4
+Added Pin To Net: NetName=NetC12_1 Pin=Y?-1
+Added Pin To Net: NetName=NetC30_2 Pin=Y?-1
+Change Net Name : Old Net Name=NetADV1_1 New Net Name=NetAllwinner A1_NMI_N
+Change Net Name : Old Net Name=NetADV1_3 New Net Name=NetAXP1_AGND
+Change Net Name : Old Net Name=NetADV1_4 New Net Name=NetU2_1
+Change Net Name : Old Net Name=NetADV1_6 New Net Name=NetU2_3
+Change Net Name : Old Net Name=NetADV1_7 New Net Name=NetU2_6
+Change Net Name : Old Net Name=NetADV1_8 New Net Name=NetU2_28
+Change Net Name : Old Net Name=NetADV1_13 New Net Name=NetX1_4
+Change Net Name : Old Net Name=NetADV1_16 New Net Name=NetX2_4

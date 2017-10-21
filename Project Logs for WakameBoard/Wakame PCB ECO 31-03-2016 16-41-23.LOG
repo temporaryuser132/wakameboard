@@ -1,0 +1,253 @@
+Removed Pin From Net: NetName=NetIC1_J4 Pin=IC1-J4
+Removed Pin From Net: NetName=NetIC1_K4 Pin=IC1-K4
+Removed Pin From Net: NetName=NetIC1_K10 Pin=IC1-K10
+Removed Pin From Net: NetName=NetIC1_L8 Pin=IC1-L8
+Removed Pin From Net: NetName=NetIC1_M3 Pin=IC1-M3
+Removed Pin From Net: NetName=NetIC1_N3 Pin=IC1-N3
+Removed Pin From Net: NetName=NetIC1_N4 Pin=IC1-N4
+Removed Pin From Net: NetName=NetIC1_N9 Pin=IC1-N9
+Removed Pin From Net: NetName=NetIC1_P3 Pin=IC1-P3
+Removed Pin From Net: NetName=NetIC1_P4 Pin=IC1-P4
+Removed Pin From Net: NetName=NetIC1_P8 Pin=IC1-P8
+Removed Pin From Net: NetName=NetIC1_P9 Pin=IC1-P9
+Removed Pin From Net: NetName=NetIC1_R3 Pin=IC1-R3
+Removed Pin From Net: NetName=NetIC1_R4 Pin=IC1-R4
+Removed Pin From Net: NetName=NetJ11_1 Pin=J11-1
+Removed Pin From Net: NetName=NetJ11_2 Pin=J11-2
+Removed Pin From Net: NetName=NetJ20_1 Pin=J20-1
+Removed Pin From Net: NetName=NetJ10_2 Pin=J20-2
+Removed Pin From Net: NetName=NetJ21_2 Pin=J21-2
+Removed Pin From Net: NetName=NetJ27_1 Pin=J27-1
+Removed Pin From Net: NetName=NetJ27_2 Pin=J27-2
+Removed Pin From Net: NetName=NetJ28_1 Pin=J28-1
+Removed Pin From Net: NetName=NetJ28_2 Pin=J28-2
+Removed Pin From Net: NetName=NetJ29_1 Pin=J29-1
+Removed Pin From Net: NetName=NetJ29_2 Pin=J29-2
+Removed Pin From Net: NetName=NetIC1_N9 Pin=J32-1
+Removed Pin From Net: NetName=NetIC1_J8 Pin=J33-1
+Removed Pin From Net: NetName=NetIC1_R8 Pin=J34-2
+Removed Pin From Net: NetName=NetIC1_T9 Pin=J41-2
+Removed Pin From Net: NetName=NetIC1_M4 Pin=J52-2
+Removed Pin From Net: NetName=NetJ21_2 Pin=J56-1
+Removed Pin From Net: NetName=NetIC1_P8 Pin=J57-2
+Removed Pin From Net: NetName=NetIC1_K10 Pin=J59-2
+Removed Pin From Net: NetName=NetIC1_R9 Pin=J61-2
+Removed Pin From Net: NetName=NetIC1_K2 Pin=J62-1
+Removed Pin From Net: NetName=NetIC1_P3 Pin=J67-2
+Removed Pin From Net: NetName=NetIC1_K8 Pin=J71-1
+Removed Pin From Net: NetName=NetIC1_L8 Pin=J72-2
+Removed Pin From Net: NetName=NetJ28_2 Pin=J77-1
+Removed Pin From Net: NetName=NetJ27_2 Pin=J78-1
+Removed Pin From Net: NetName=NetJ11_1 Pin=J79-1
+Removed Pin From Net: NetName=NetIC1_M3 Pin=J80-2
+Removed Pin From Net: NetName=NetJ29_2 Pin=J81-1
+Removed Pin From Net: NetName=NetIC1_N8 Pin=J83-2
+Removed Pin From Net: NetName=NetIC1_P9 Pin=J84-2
+Removed Pin From Net: NetName=NetIC1_N3 Pin=J89-2
+Removed Pin From Net: NetName=NetIC1_P4 Pin=J90-2
+Removed Pin From Net: NetName=NetIC1_N4 Pin=J91-2
+Removed Pin From Net: NetName=NetIC1_R3 Pin=J96-2
+Removed Pin From Net: NetName=NetIC1_R4 Pin=J97-2
+Removed Pin From Net: NetName=NetIC1_J4 Pin=J100-2
+Removed Pin From Net: NetName=NetIC1_K4 Pin=J101-2
+Removed Pin From Net: NetName=NetJ37_2 Pin=J?-1
+Removed Pin From Net: NetName=NetJ?_2 Pin=J?-2
+Removed Pin From Net: NetName=NetJ29_1 Pin=U$1-DDR3_BA1
+Removed Pin From Net: NetName=NetJ27_1 Pin=U$1-DDR3_CK_N
+Removed Pin From Net: NetName=NetJ28_1 Pin=U$1-DDR3_CKE
+Removed Pin From Net: NetName=NetJ11_2 Pin=U$1-DDR3_CK
+Removed Pin From Net: NetName=NetJ20_1 Pin=U$10-LEFT2
+Removed Pin From Net: NetName=NetJ20_1 Pin=U$10-RIGHT1
+Removed Pin From Net: NetName=NetU$1_LCD_VSYNC/PD27 Pin=U$22-P$1
+Removed Pin From Net: NetName=NetU$1_LCD_HSYNC/PD26 Pin=U$23-P$1
+Removed Pin From Net: NetName=NetU$7_12 Pin=U$24-P$2
+Removed Pin From Net: NetName=NetU$7_11 Pin=U$25-P$2
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=J16(0R/10)
+Added Component: Designator=J17(0R/10)
+Added Component: Designator=J19(0R/10)
+Added Component: Designator=J25(0R/10)
+Added Component: Designator=J39(0R/10)
+Added Component: Designator=J43(0R/10)
+Added Component: Designator=J44(0R/10)
+Added Component: Designator=J60(0R/10)
+Added Component: Designator=J64(0R/10)
+Added Component: Designator=J119(0R/10)
+Added Component: Designator=J?(0R/10)
+Added Component: Designator=J?(0R/10)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_J4 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_K4 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_K4 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_K10 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_K10 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_L8 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_M3 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_M3 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_N3 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_N4 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_N9 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_P3 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_P4 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_P4 Pin=C?-1
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=N$232 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_K4 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_K4 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P8 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_P9 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_R3 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_R4 Pin=C?-2
+Added Pin To Net: NetName=NetJ11_1 Pin=C?-2
+Added Pin To Net: NetName=NetJ11_2 Pin=C?-2
+Added Pin To Net: NetName=NetJ20_1 Pin=C?-2
+Added Pin To Net: NetName=NetJ20_1 Pin=C?-2
+Added Pin To Net: NetName=NetJ21_2 Pin=C?-2
+Added Pin To Net: NetName=NetJ27_1 Pin=C?-2
+Added Pin To Net: NetName=NetJ27_2 Pin=C?-2
+Added Pin To Net: NetName=NetJ28_1 Pin=C?-2
+Added Pin To Net: NetName=NetIC1_J8 Pin=IC1-K10
+Added Pin To Net: NetName=NetIC1_J8 Pin=IC1-N9
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J17-1
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Pin To Net: NetName=NetIC1_R4 Pin=J19-1
+Added Pin To Net: NetName=NetIC1_R3 Pin=J19-2
+Added Pin To Net: NetName=NetJ11_1 Pin=J25-1
+Added Pin To Net: NetName=NetIC1_L8 Pin=J25-2
+Added Pin To Net: NetName=NetIC1_L8 Pin=J26-1
+Added Pin To Net: NetName=NetIC1_P8 Pin=J39-1
+Added Pin To Net: NetName=NetJ39_2 Pin=J39-2
+Added Pin To Net: NetName=NetJ43_1 Pin=J43-1
+Added Pin To Net: NetName=NetIC1_P8 Pin=J43-2
+Added Pin To Net: NetName=NetJ16_1 Pin=J44-1
+Added Pin To Net: NetName=NetJ56_1 Pin=J56-1
+Added Pin To Net: NetName=NetJ60_2 Pin=J60-2
+Added Pin To Net: NetName=NetJ64_1 Pin=J64-1
+Added Pin To Net: NetName=NetJ64_2 Pin=J64-2
+Added Pin To Net: NetName=NetJ119_1 Pin=J119-1
+Added Pin To Net: NetName=NetJ119_2 Pin=J119-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ37_2 Pin=J?-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J?-2
+Added Pin To Net: NetName=NetJ46_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetIC1_R9 Pin=U$1-DDR3_A6
+Added Pin To Net: NetName=NetIC1_T9 Pin=U$1-DDR3_A8
+Added Pin To Net: NetName=NetIC1_J8 Pin=U$1-DDR3_A10
+Added Pin To Net: NetName=NetIC1_R8 Pin=U$1-DDR3_A11
+Added Pin To Net: NetName=NetIC1_N8 Pin=U$1-DDR3_A12
+Added Pin To Net: NetName=NetIC1_J8 Pin=U$1-DDR3_BA1
+Added Pin To Net: NetName=NetIC1_M4 Pin=U$1-DDR3_BA2
+Added Pin To Net: NetName=NetIC1_K8 Pin=U$1-DDR3_CK_N
+Added Pin To Net: NetName=NetIC1_J8 Pin=U$1-DDR3_CKE
+Added Pin To Net: NetName=NetIC1_J8 Pin=U$1-DDR3_CK
+Added Pin To Net: NetName=NetIC1_K2 Pin=U$1-VDD2_INT
+Added Pin To Net: NetName=NetJ28_2 Pin=U$3-27
+Added Pin To Net: NetName=NetJ29_1 Pin=U$3-31
+Added Pin To Net: NetName=NetJ29_2 Pin=U$3-33
+Added Pin To Net: NetName=NetJ27_1 Pin=U$4-ACIN1
+Added Pin To Net: NetName=NetJ27_1 Pin=U$4-ACIN
+Added Pin To Net: NetName=NetJ20_1 Pin=U$4-APS
+Added Pin To Net: NetName=NetIC1_P4 Pin=U$4-DCDC3
+Added Pin To Net: NetName=NetJ11_2 Pin=U$4-GPIO0
+Added Pin To Net: NetName=NetJ21_2 Pin=U$4-IPSOUT1
+Added Pin To Net: NetName=NetJ27_2 Pin=U$4-LDO1
+Added Pin To Net: NetName=NetIC1_N3 Pin=U$4-LDO4
+Added Pin To Net: NetName=NetIC1_N9 Pin=U$4-LDO24IN
+Added Pin To Net: NetName=NetIC1_P3 Pin=U$4-PGND1
+Added Pin To Net: NetName=NetJ28_1 Pin=U$4-VBUS
+Added Pin To Net: NetName=NetIC1_N9 Pin=U$4-VIN3
+Added Pin To Net: NetName=NetIC1_P8 Pin=U$6-GND1
+Added Pin To Net: NetName=NetIC1_P8 Pin=U$6-GND
+Added Pin To Net: NetName=NetIC1_R4 Pin=U$7-18
+Added Pin To Net: NetName=NetIC1_R3 Pin=U$7-19
+Added Pin To Net: NetName=NetIC1_P9 Pin=U$7-21
+Added Pin To Net: NetName=NetIC1_K4 Pin=U$7-25
+Added Pin To Net: NetName=NetIC1_K4 Pin=U$7-35
+Added Pin To Net: NetName=NetIC1_K4 Pin=U$7-48
+Added Pin To Net: NetName=NetIC1_K4 Pin=U$7-51
+Added Pin To Net: NetName=NetIC1_J4 Pin=U$7-52
+Added Pin To Net: NetName=NetJ10_2 Pin=U$10-LEFT2
+Added Pin To Net: NetName=NetJ10_2 Pin=U$10-RIGHT1
+Added Pin To Net: NetName=NetU$7_11 Pin=U$11-USBDN7
+Added Pin To Net: NetName=NetU$7_12 Pin=U$11-USBDP7
+Added Pin To Net: NetName=NetJ29_2 Pin=X1-1
+Added Pin To Net: NetName=NetJ29_2 Pin=X1-1
+Added Pin To Net: NetName=NetJ29_2 Pin=X1-1
+Added Pin To Net: NetName=NetJ29_1 Pin=X1-2
+Added Pin To Net: NetName=NetJ28_2 Pin=X1-3
+Added Pin To Net: NetName=NetU$1_LCD_HSYNC/PD26 Pin=X1-13
+Added Pin To Net: NetName=NetU$1_LCD_VSYNC/PD27 Pin=X1-14
+Added Pin To Net: NetName=NetIC1_P8 Pin=X7-4
+Change Net Name : Old Net Name=NetIC1_J4 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_K4 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_K10 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_L8 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_M3 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_N3 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_N4 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_N9 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_P3 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_P4 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_P8 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC1_P9 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetIC1_R3 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetIC1_R4 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ11_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ20_1 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ21_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ27_1 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ27_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ28_1 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetJ28_2 New Net Name=NetU$3_27
+Change Net Name : Old Net Name=NetJ29_1 New Net Name=NetU$3_31
+Change Net Name : Old Net Name=NetJ29_2 New Net Name=NetU$3_33
