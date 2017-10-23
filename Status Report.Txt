@@ -1,0 +1,40 @@
+Output: Schematic Prints
+Type  : Schematic Print
+From  : Schematic Document [WakameBoard.SchDoc]
+
+Output: Bill of Materials
+Type  : BOM
+From  : Project [WakameBoard.PrjPcb]
+   Generated File[Bill of Materials-WakameBoard.xls]
+
+Output: Component Cross Reference Report
+Type  : ReportComponents
+From  : Project [WakameBoard.PrjPcb]
+   Generated File[Component Cross Reference Report-WakameBoard.xls]
+
+Output: Electrical Rules Check
+Type  : ERC
+From  : Project [WakameBoard.PrjPcb]
+   Generated File[WakameBoard.html]
+
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
+From  : Project [WakameBoard.PrjPcb]
+   Generated File[WakameBoard.REP]
+
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Project [WakameBoard.PrjPcb]
+   Generated File[WakameBoard.REP]
+
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [WakameBoard.PrjPcb]
+   Generated File[WakameBoard.BOM]
+   Generated File[WakameBoard.CSV]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 20:05:10 On 22/10/2017

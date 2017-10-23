@@ -1,0 +1,439 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-16">
+<style type="text/css">
+        h1, h2, h3, h4, h5, h6 { 
+            font-family : sans-serif;
+            color : white;
+            background-color : #21489e;
+            padding: 0.3em;
+        }
+        body { 
+            font-family : verdana;
+        }
+        td, th {  
+            padding: 0.5em;
+            text-align : center;
+            width : 18%;    
+        }
+        th { 
+            background-color : #A6CAF0;
+        
+        }
+        th.column1, td.column1 { 
+            text-align: left;
+            width : auto; 
+        }
+        table { 
+            width : 100%; 
+        }
+        .front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3 {
+            padding-top : 0.1em;
+            padding-bottom : 0.1em;
+            border : 0px solid black;
+            width : auto;
+            vertical-align: top
+        }
+        .front_matter_column1 {
+            text-align : right;
+        }
+        .total_column1, .total_column {
+            font-weight : bold; 
+        }
+        .total_column1 {
+            text-align : right;
+        }
+        .front_matter_column2 {
+            text-align : center;
+        }
+        .front_matter_column3 {
+            text-align : left;
+        }
+        .warning, .error { 
+            color : red;
+            font-weight : bold;
+        }   
+        tr.onmouseout_odd { 
+            background-color : #EEEEE0 
+        }
+        tr.onmouseout_even { 
+            background-color : #F3F3E3   
+        }
+        tr.onmouseover_odd, tr.onmouseover_even { 
+            background-color : lightYellow 
+        } 
+        a:link, a:visited, .q a:link,.q a:active,.q {
+            color: #21489e; 
+        }
+        a:link.callback, a:visited.callback { 
+            color: #008000 
+        }
+        p.contents_level1 {
+            font-weight : bold;
+            font-size : 110%;
+            margin : 0.5em;
+        }
+        p.contents_level2 {
+            position : relative;
+            left : 20px;
+            margin : 0.5em;
+        }
+    </style><script type="text/javascript">
+        function coordToMils(coord) {
+            var number = coord / 10000;
+            
+            if (number != number.toFixed(3))
+                number = number.toFixed(3);
+            
+            return number + 'mil'
+        }
+
+        function coordToMM(coord) {
+            var number = 0.0254 * coord / 10000;
+            
+            if (number != number.toFixed(4))
+                number = number.toFixed(4);
+            
+            return number + 'mm'
+        }
+    
+        function convertCoord(coordNode, units) {
+            for (var i = 0; i < coordNode.childNodes.length; i++) {
+                coordNode.removeChild(coordNode.childNodes[i]);     
+            }
+
+            var coord = coordNode.getAttribute('value');
+            if (coord != null) {
+                if (units == 'mm') {    
+                    textNode = document.createTextNode(coordToMM(coord));
+                    coordNode.appendChild(textNode);
+                } else if (units == 'mil') {
+                    textNode = document.createTextNode(coordToMils(coord));     
+                    coordNode.appendChild(textNode);    
+                }
+            }
+        }
+    
+        function convertUnits(unitNode, units) {
+            for (var i = 0; i < unitNode.childNodes.length; i++) {
+                unitNode.removeChild(unitNode.childNodes[i]);       
+            }
+        
+            textNode = document.createTextNode(units); 
+            unitNode.appendChild(textNode);
+        }
+    
+        function changeUnits(radio_input, units) {
+            if (radio_input.checked) {
+            
+                var elements = document.getElementsByName('coordinate');
+                if (elements) {
+                    for (var i = 0; i < elements.length; i++) {
+                        convertCoord(elements[i], units);
+                    }
+                }
+    
+                var elements = document.getElementsByName('units');
+                if (elements) {
+                    for (var i = 0; i < elements.length; i++) {
+                        convertUnits(elements[i], units);
+                    }
+                }
+            }
+        }   
+    </script></head>
+<body onload=""><img ALT="Altium" src="
+            file://C:\PROGRAM FILES\ALTIUM DESIGNER WINTER 09\Templates\AD-rgb_logo_223x64.gif
+        "><h1>Electrical Rule Check Report</h1>
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3">22/10/2017</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3">20:05:05</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename</td>
+<td class="front_matter_column2">:</td>
+<td class="front_matter_column3"><a href="file:///WakameBoard" class="file"><acronym title="WakameBoard">WakameBoard</acronym></a></td>
+</tr>
+</table>
+<hr><a name="ID13TTELRTM0RYGFYNAYAOQIM2NDHQAU5YWPFP1VRKHKCRKTD5XAI"><table>
+<tr>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%;font-size:120%;font-weight:Bold;background-color : #A6CAF0" class="column1">Class</td>
+<td style="width:40%;font-size:120%;font-weight:Bold;background-color : #A6CAF0" class="column2">Document</td>
+<td style="width:50%;font-size:120%;font-weight:Bold;background-color : #A6CAF0" class="column3">Message</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Component S1 55?-2LED01 has unused sub-part (2)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Component S1 55?-2LED01 has unused sub-part (3)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Duplicate Net Names Wire NetL?_1</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Duplicate Net Names Wire NetR6_2</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Floating Power Object VCC</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_16 has no driving source (Pin U2-16,Pin U$1-DDR3_WE)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_17 has no driving source (Pin U2-17,Pin U$1-DDR3_CAS)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_18 has no driving source (Pin U2-18,Pin U$1-DDR3_RAS)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_19 contains floating input pins (Pin U2-19)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_19 has no driving source (Pin U2-19)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_20 has no driving source (Pin U2-20,Pin U$1-DDR3_BA0)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_21 contains floating input pins (Pin U2-21)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_21 has no driving source (Pin U2-21)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_22 has no driving source (Pin U2-22,Pin U$1-DDR3_A10)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_23 has no driving source (Pin U2-23,Pin U$1-DDR3_A0)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_24 has no driving source (Pin U2-24,Pin U$1-DDR3_A1)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_25 has no driving source (Pin U2-25,Pin U$1-DDR3_A2)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_26 has no driving source (Pin U2-26,Pin U$1-DDR3_A3)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_29 has no driving source (Pin U2-29,Pin U$1-DDR3_A4)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_30 has no driving source (Pin U2-30,Pin U$1-DDR3_A5)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_31 has no driving source (Pin U2-31,Pin U$1-DDR3_A6)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_32 has no driving source (Pin U2-32,Pin U$1-DDR3_A7)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_33 has no driving source (Pin U2-33,Pin U$1-DDR3_A8)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_34 has no driving source (Pin U2-34,Pin U$1-DDR3_A9)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_35 has no driving source (Pin U2-35,Pin U$1-DDR3_A11)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_36 has no driving source (Pin U2-36,Pin U$1-DDR3_A12)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_37 contains floating input pins (Pin U2-37)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_37 has no driving source (Pin U2-37)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_38 contains floating input pins (Pin U2-38)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_38 has no driving source (Pin U2-38)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_39 contains floating input pins (Pin U2-39)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Net NetU2_39 has no driving source (Pin U2-39)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Y? at 1742,1080.716</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid C30 at 1717,1095.716</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid C31 at 1757,1095.716</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid J2 at 1737,1050.716</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin Y?-2 at 1767,1080.716</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin Y?-1 at 1717,1080.716</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin C30-2 at 1717,1080.716</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin C30-1 at 1717,1110.716</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin C31-2 at 1757,1080.716</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin C31-1 at 1757,1110.716</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin J2-1 at 1757,1050.716</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Off grid Pin J2-2 at 1717,1050.716</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Un-Designated Part L?</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Un-Designated Part Y?</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Unconnected line (403,1721) To (403,1722)</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Unconnected line (813,1193) To (813,1213)</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Unconnected Pin U2-19 at 1822,510</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Unconnected Pin U2-21 at 1822,310</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Unconnected Pin U2-37 at 1822,540</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Unconnected Pin U2-38 at 1822,530</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td style="width:10%" class="column1">Warning</td>
+<td style="width:40%" class="column2">WakameBoard.SchDoc</td>
+<td style="width:50%" class="column3">Unconnected Pin U2-39 at 2002,480</td>
+</tr>
+</table></a><a href="#top">Back to top</a><br><br></body>
+</html>

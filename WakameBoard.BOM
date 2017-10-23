@@ -1,0 +1,38 @@
+Bill of Material for WakameBoard.PrjPcb
+On 22/10/2017 at 20:05:09
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ .                   DIODE_DO35-7     3    D1, D2, D3                                        
+ .                   RAD-0.3          3    C3, C5, C9                   Capacitor            
+ 0R                  0R/10            2    J19, J25                     Bridge 0R 10mm       
+ 35MMSTEREOJACK      PG203J           1    U$10                                              
+ 55?-2LED01          5501-2LED        1    S1                           <b>PUSHBUTTON SERIES 5500 SWITCHES</b> 2 LED<p>
+Source: www.e-switch.com .. 5500.pdf 
+ 749010012A          749010012A       1    T1                           10/100 Base-T SMD Transformer 1 Port 
+ AD558JD             DIP16            3    PCMBlue, PCMGreen, PCMRed    Imported             
+ ALLWINNER-A13       PG-LQFP-176-2    1    U$1                                               
+ AT25*P              DIL08            1    IC4                          SPI bus serial <B>EEPROM</B> 
+ AXP202              QFN48            1    U$4                          Allwinner a13 pwr ic 
+ Cap                 RAD-0.3         31    C1, C2, C4, C6, C7, C8, C10  Capacitor            
+                                           C11, C12, C13, C14, C15, C16
+                                           C17, C18, C19, C20, C21, C22
+                                           C23, C24, C25, C26, C27, C28
+                                           C29, C30, C31, C32, C33, C34
+ HF15H               HDF15H           1    X1                           <b>SUB-D</b>         
+ Inductor            0402-A           2    L?, L?                       Inductor             
+ K4S510432B-TC75     54_TSOP2_400AF_N    1    U2                           512Mb Synchronous High Data Rate DRAM, 32Mb x 4Bit x 4 Banks, 54-Pin TSOP 
+ L78L05ABZ           TO92             1    U1                           Positive Voltage Regulator 
+ LAN9500             QFN56            1    U$7                                               
+ L-USL8530M          L8530M           1    L12                          <B>INDUCTOR</B>, American symbol 
+ Mic2                PIN2             1    MK1                          Microphone           
+ Micrel MIC2026      8uSOP            3    IC*1, IC*2, IC*3             Micrel MIC2026 Dual-Channel Power Distribution Switch 
+ PWR                 SCD-014-A        1    U$6                          Main Power Jack      
+ REKN                REKN             1    S2                           <b>PUSH SWITCH</b><p>
+ITT-Cannon-Cannon 
+ Res1                AXIAL-0.3        4    R1, R6, R7, R8               Resistor             
+ Res2                AXIAL-0.4        1    R6                           Resistor             
+ Res3                J1-0603          4    R2, R3, R4, R5               Resistor             
+ USB2507             TQFP80           1    U$11                         usb 2507 hub on chiip 
+ USB-A003            USB-A003         6    X2, X3, X4, X5, X6, X7       <b>USB connector</b> 
+ XTAL                R38              2    Y?, Y?                       Crystal Oscillator   
