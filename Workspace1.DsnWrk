@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=WakameBoard.LibPkg
-[Project2]
 ProjectPath=WakameBoard.PrjPcb
+[Project2]
+ProjectPath=..\WakameLibGOOD.LibPkg

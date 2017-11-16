@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=NetC8_2 Pin=C8-2
+Removed Pin From Net: NetName=NetC15_1 Pin=C15-1
+Removed Pin From Net: NetName=NetC15_2 Pin=C15-2
+Removed Pin From Net: NetName=NetC16_1 Pin=C16-1
+Removed Pin From Net: NetName=NetC15_1 Pin=C16-2
+Removed Pin From Net: NetName=NetC19_1 Pin=C19-1
+Removed Pin From Net: NetName=NetC15_1 Pin=C19-2
+Removed Pin From Net: NetName=NetC16_1 Pin=C23-1
+Removed Pin From Net: NetName=NetC15_1 Pin=C23-2
+Removed Pin From Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C38-2
+Removed Pin From Net: NetName=NetIC*1_6 Pin=IC*1-6
+Removed Pin From Net: NetName=NetLAN1_2 Pin=LAN1-2
+Removed Pin From Net: NetName=NetLAN1_3 Pin=LAN1-3
+Removed Pin From Net: NetName=NetLAN1_5 Pin=LAN1-5
+Removed Pin From Net: NetName=NetC15_2 Pin=LAN1-9
+Removed Pin From Net: NetName=NetC15_2 Pin=LAN1-48
+Removed Pin From Net: NetName=NetC16_1 Pin=LAN1-51
+Removed Pin From Net: NetName=NetC19_1 Pin=LAN1-52
+Removed Pin From Net: NetName=NetLAN1_5 Pin=T1-9
+Removed Pin From Net: NetName=NetLAN1_2 Pin=T1-14
+Removed Pin From Net: NetName=NetLAN1_3 Pin=T1-16
+Removed Pin From Net: NetName=NetIC*1_6 Pin=X1-4
+Removed Pin From Net: NetName=NetIC*1_6 Pin=X4-4
+Change Component Comment : Designator=Power Switch Old Comment=Power Switch New Comment=SW-PB
+Change Component Designator: OldDesignator=Power Switch NewDesignator=S?
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Component: Designator=R?(AXIAL-0.4)
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetAXP1_LDO2 Pin=C21-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C21-2
+Added Pin To Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetC15_2 Pin=C?-1
+Added Pin To Net: NetName=NetC16_1 Pin=C?-1
+Added Pin To Net: NetName=NetC19_1 Pin=C?-1
+Added Pin To Net: NetName=NetIC*1_6 Pin=C?-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C?-2
+Added Pin To Net: NetName=NetLAN1_2 Pin=C?-2
+Added Pin To Net: NetName=NetLAN1_2 Pin=C?-2
+Added Pin To Net: NetName=NetLAN1_2 Pin=C?-2
+Added Pin To Net: NetName=NetLAN1_2 Pin=C?-2
+Added Pin To Net: NetName=NetLAN1_2 Pin=IC*1-6
+Added Pin To Net: NetName=NetC15_2 Pin=LAN1-2
+Added Pin To Net: NetName=NetC16_1 Pin=LAN1-3
+Added Pin To Net: NetName=NetIC*1_6 Pin=LAN1-5
+Added Pin To Net: NetName=NetC19_1 Pin=LAN1-6
+Added Pin To Net: NetName=NetLAN1_3 Pin=LAN1-9
+Added Pin To Net: NetName=NetLAN1_3 Pin=LAN1-48
+Added Pin To Net: NetName=NetLAN1_5 Pin=R?-1
+Added Pin To Net: NetName=NetLAN1_5 Pin=R?-1
+Added Pin To Net: NetName=NetLAN1_5 Pin=R?-1
+Added Pin To Net: NetName=NetLAN1_5 Pin=R?-1
+Added Pin To Net: NetName=NetC15_2 Pin=R?-2
+Added Pin To Net: NetName=NetC16_1 Pin=R?-2
+Added Pin To Net: NetName=NetC19_1 Pin=R?-2
+Added Pin To Net: NetName=NetIC*1_6 Pin=R?-2
+Added Pin To Net: NetName=NetIC*1_6 Pin=T1-9
+Added Pin To Net: NetName=NetC19_1 Pin=T1-11
+Added Pin To Net: NetName=NetC15_2 Pin=T1-14
+Added Pin To Net: NetName=NetC16_1 Pin=T1-16
+Added Pin To Net: NetName=NetLAN1_2 Pin=X1-4
+Added Pin To Net: NetName=NetLAN1_2 Pin=X4-4
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC18_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetIC*1_6 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetLAN1_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetLAN1_3 New Net Name=NetLAN1_9
+Change Net Name : Old Net Name=NetLAN1_5 New Net Name=NetR?_1

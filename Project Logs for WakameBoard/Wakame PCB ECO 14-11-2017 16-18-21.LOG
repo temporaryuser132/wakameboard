@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=NetAXP1_AGND Pin=AXP1-AGND
+Removed Pin From Net: NetName=NetAXP1_APS Pin=AXP1-APS
+Removed Pin From Net: NetName=NetAXP1_GPIO0 Pin=AXP1-GPIO0
+Removed Pin From Net: NetName=NetAXP1_LDO24IN Pin=AXP1-LDO24IN
+Removed Pin From Net: NetName=NetAXP1_AGND Pin=AXP1-N_OE
+Removed Pin From Net: NetName=NetAXP1_LDO24IN Pin=AXP1-VIN3
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetAXP1_GPIO0 Pin=C1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=C5-2
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C8-2
+Removed Pin From Net: NetName=NetAXP1_LDO24IN Pin=C9-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C9-2
+Removed Pin From Net: NetName=NetC1_1 Pin=C10-2
+Removed Pin From Net: NetName=NetAXP1_LDO2 Pin=C21-1
+Removed Pin From Net: NetName=NetC1_1 Pin=C21-2
+Removed Pin From Net: NetName=NetAXP1_AGND Pin=C35-1
+Removed Pin From Net: NetName=NetC35_2 Pin=C35-2
+Removed Pin From Net: NetName=NetC1_1 Pin=C37-2
+Removed Pin From Net: NetName=NetC3_2 Pin=C38-2
+Removed Pin From Net: NetName=GROUND Pin=C?-2
+Removed Pin From Net: NetName=NetC1_1 Pin=IC*2-6
+Removed Pin From Net: NetName=NetR7_1 Pin=R7-1
+Removed Pin From Net: NetName=NetC35_2 Pin=R9-1
+Removed Pin From Net: NetName=NetC1_1 Pin=S?-2
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-2
+Removed Pin From Net: NetName=NetR7_1 Pin=U1-3
+Removed Pin From Net: NetName=NetR7_1 Pin=U$1-+
+Removed Pin From Net: NetName=NetC1_1 Pin=U$1-GND1
+Removed Pin From Net: NetName=NetC1_1 Pin=U$1-GND
+Removed Pin From Net: NetName=NetC1_1 Pin=X3-4
+Removed Pin From Net: NetName=NetC1_1 Pin=X6-4
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=J1-0603
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=D?(DIODE-0.7)
+Added Pin To Net: NetName=GROUND Pin=AXP1-ACIN
+Added Pin To Net: NetName=NetAXP1_APS Pin=AXP1-BIAS
+Added Pin To Net: NetName=NetAXP1_GPIO0 Pin=AXP1-EXTEN
+Added Pin To Net: NetName=NetAXP1_LDO24IN Pin=AXP1-LDO3IN
+Added Pin To Net: NetName=NetC1_1 Pin=AXP1-VIN3
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C5-2
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C8-2
+Added Pin To Net: NetName=NetC35_2 Pin=C8-2
+Added Pin To Net: NetName=NetC1_1 Pin=C9-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C9-2
+Added Pin To Net: NetName=NetR7_1 Pin=C10-2
+Added Pin To Net: NetName=NetAXP1_LDO2 Pin=C21-1
+Added Pin To Net: NetName=NetAXP1_LDO4 Pin=C21-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C21-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C21-2
+Added Pin To Net: NetName=NetAXP1_APS Pin=C35-1
+Added Pin To Net: NetName=NetAXP1_GPIO0 Pin=C35-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C37-2
+Added Pin To Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetAXP1_LDO24IN Pin=C?-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C?-2
+Added Pin To Net: NetName=NetR7_1 Pin=C?-2
+Added Pin To Net: NetName=NetC35_2 Pin=D?-1
+Added Pin To Net: NetName=GROUND Pin=D?-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=IC1-4
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=IC*2-6
+Added Pin To Net: NetName=NetC32_2 Pin=R7-1
+Added Pin To Net: NetName=GROUND Pin=R9-1
+Added Pin To Net: NetName=NetC8_1 Pin=R9-2
+Added Pin To Net: NetName=NetR7_1 Pin=S?-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=GROUND Pin=U$1-+
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U$1-GND
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U$2-USBDN5
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=X2-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=X3-4
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=X6-4
+Change Net Name : Old Net Name=GROUND New Net Name=NetAXP1_ACIN
+Change Net Name : Old Net Name=NetAXP1_AGND New Net Name=NetAXP1_PGND2
+Change Net Name : Old Net Name=NetAXP1_APS New Net Name=NetAXP1_BIAS
+Change Net Name : Old Net Name=NetAXP1_GPIO0 New Net Name=NetAXP1_EXTEN
+Change Net Name : Old Net Name=NetAXP1_LDO24IN New Net Name=NetAXP1_LDO3IN
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetAXP1_VIN3
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetC10_2
