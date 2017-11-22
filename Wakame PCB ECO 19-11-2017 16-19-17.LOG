@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=DDR512 NewDesignator=DDR
+Change Net Name : Old Net Name=NetDDR512_3 New Net Name=NetDDR_3
+Change Net Name : Old Net Name=NetDDR512_6 New Net Name=NetDDR_6
+Change Net Name : Old Net Name=NetDDR512_28 New Net Name=NetDDR_28

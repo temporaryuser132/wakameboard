@@ -1,0 +1,164 @@
+Removed Pin From Net: NetName=NetC34_1 Pin=C7-1
+Removed Pin From Net: NetName=NetC20_1 Pin=C13-1
+Removed Pin From Net: NetName=NetC16_2 Pin=C13-2
+Removed Pin From Net: NetName=NetC23_1 Pin=C15-1
+Removed Pin From Net: NetName=NetC23_2 Pin=C15-2
+Removed Pin From Net: NetName=NetAXP1_LDO1 Pin=C18-1
+Removed Pin From Net: NetName=NetC36_2 Pin=C18-2
+Removed Pin From Net: NetName=NetAXP1_LDO2 Pin=C19-1
+Removed Pin From Net: NetName=NetAXP1_LDO1 Pin=C19-2
+Removed Pin From Net: NetName=NetC27_2 Pin=C20-1
+Removed Pin From Net: NetName=NetAllwinner A1_X24OUT Pin=C20-2
+Removed Pin From Net: NetName=NetC7_1 Pin=C24-1
+Removed Pin From Net: NetName=NetAXP1_LDO1 Pin=C24-2
+Removed Pin From Net: NetName=NetC29_1 Pin=C27-1
+Removed Pin From Net: NetName=NetC29_2 Pin=C27-2
+Removed Pin From Net: NetName=NetC12_1 Pin=C31-1
+Removed Pin From Net: NetName=NetAXP1_LDO1 Pin=C31-2
+Removed Pin From Net: NetName=NetAllwinner A1_VCC2_DRAM Pin=C33-2
+Removed Pin From Net: NetName=NetC40_1 Pin=C36-1
+Removed Pin From Net: NetName=NetAXP1_LDO1 Pin=C36-2
+Removed Pin From Net: NetName=NetAXP1_LDO1 Pin=C40-1
+Removed Pin From Net: NetName=NetC45_2 Pin=C40-2
+Removed Pin From Net: NetName=NetAllwinner A1_X24MIN Pin=C42-1
+Removed Pin From Net: NetName=NetC27_2 Pin=C42-2
+Removed Pin From Net: NetName=NetAXP1_LDO1 Pin=C43-1
+Removed Pin From Net: NetName=NetAllwinner A1_VDD6_CPU Pin=C43-2
+Removed Pin From Net: NetName=NetR8_1 Pin=R7-1
+Removed Pin From Net: NetName=NetC21_1 Pin=R7-2
+Removed Pin From Net: NetName=NetC4_1 Pin=R8-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R8-2
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=DDR1 Old Footprint=MAX247 New Footprint=54_TSOP2_400AF_N
+Change Component Comment : Designator=R8 Old Comment=Res1 New Comment=Res2
+Change Component Designator: OldDesignator=C1 NewDesignator=C12
+Change Component Designator: OldDesignator=C2 NewDesignator=C35
+Change Component Designator: OldDesignator=C3 NewDesignator=C9
+Change Component Designator: OldDesignator=C4 NewDesignator=C14
+Change Component Designator: OldDesignator=C5 NewDesignator=C10
+Change Component Designator: OldDesignator=C6 NewDesignator=C11
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C13
+Change Component Designator: OldDesignator=C10 NewDesignator=C24
+Change Component Designator: OldDesignator=C11 NewDesignator=C17
+Change Component Designator: OldDesignator=C12 NewDesignator=C26
+Change Component Designator: OldDesignator=C14 NewDesignator=C37
+Change Component Designator: OldDesignator=C16 NewDesignator=C25
+Change Component Designator: OldDesignator=C17 NewDesignator=C36
+Change Component Designator: OldDesignator=C21 NewDesignator=C19
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=C23 NewDesignator=C16
+Change Component Designator: OldDesignator=C24 NewDesignator=C20
+Change Component Designator: OldDesignator=C25 NewDesignator=C44
+Change Component Designator: OldDesignator=C26 NewDesignator=C49
+Change Component Designator: OldDesignator=C28 NewDesignator=C22
+Change Component Designator: OldDesignator=C29 NewDesignator=C46
+Change Component Designator: OldDesignator=C30 NewDesignator=C43
+Change Component Designator: OldDesignator=C32 NewDesignator=C48
+Change Component Designator: OldDesignator=C34 NewDesignator=C32
+Change Component Designator: OldDesignator=C35 NewDesignator=C8
+Change Component Designator: OldDesignator=C37 NewDesignator=C30
+Change Component Designator: OldDesignator=C38 NewDesignator=C42
+Change Component Designator: OldDesignator=C39 NewDesignator=C1
+Change Component Designator: OldDesignator=C41 NewDesignator=C4
+Change Component Designator: OldDesignator=C44 NewDesignator=C45
+Change Component Designator: OldDesignator=C45 NewDesignator=C29
+Change Component Designator: OldDesignator=C46 NewDesignator=C2
+Change Component Designator: OldDesignator=C47 NewDesignator=C3
+Change Component Designator: OldDesignator=C48 NewDesignator=C6
+Change Component Designator: OldDesignator=C49 NewDesignator=C41
+Change Component Designator: OldDesignator=C50 NewDesignator=C39
+Change Component Designator: OldDesignator=D1 NewDesignator=D4
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=R1 NewDesignator=R15
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R13
+Change Component Designator: OldDesignator=R5 NewDesignator=R12
+Change Component Designator: OldDesignator=R6 NewDesignator=R14
+Change Component Designator: OldDesignator=R10 NewDesignator=R4
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R6
+Change Component Designator: OldDesignator=R14 NewDesignator=R3
+Change Component Designator: OldDesignator=R15 NewDesignator=R5
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U7
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U2
+Change Component Designator: OldDesignator=X1 NewDesignator=X4
+Change Component Designator: OldDesignator=X3 NewDesignator=X6
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X1
+Change Component Designator: OldDesignator=X6 NewDesignator=X3
+Added Component: Designator=C23(RAD-0.3)
+Added Component: Designator=C28(RAD-0.3)
+Added Component: Designator=C31(RAD-0.3)
+Added Component: Designator=C34(RAD-0.3)
+Added Component: Designator=C38(RAD-0.3)
+Added Component: Designator=C47(RAD-0.3)
+Added Component: Designator=C50(RAD-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC12_1 Pin=C15-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C15-2
+Added Pin To Net: NetName=NetAXP1_LDO2 Pin=C18-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C18-2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC16_2 Pin=C20-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetAllwinner A1_X24MIN Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=C28-1
+Added Pin To Net: NetName=NetAllwinner A1_X24OUT Pin=C28-2
+Added Pin To Net: NetName=NetC29_1 Pin=C31-1
+Added Pin To Net: NetName=NetC29_2 Pin=C31-2
+Added Pin To Net: NetName=NetAllwinner A1_VDD6_CPU Pin=C33-2
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C34-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C38-1
+Added Pin To Net: NetName=NetC36_2 Pin=C38-2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C40-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C47-1
+Added Pin To Net: NetName=NetC45_2 Pin=C47-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C50-1
+Added Pin To Net: NetName=NetAllwinner A1_VCC2_DRAM Pin=C50-2
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_DQS0 Pin=DDR1-5
+Added Pin To Net: NetName=NetDDR1_6 Pin=DDR1-6
+Added Pin To Net: NetName=NetDDR1_3 Pin=DDR1-9
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_DQS1 Pin=DDR1-11
+Added Pin To Net: NetName=NetDDR1_6 Pin=DDR1-12
+Added Pin To Net: NetName=NetAllwinner A1_VCC1 Pin=DDR1-14
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_CAS Pin=DDR1-17
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_BA0 Pin=DDR1-20
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A10 Pin=DDR1-22
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A0 Pin=DDR1-23
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A1 Pin=DDR1-24
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A2 Pin=DDR1-25
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A3 Pin=DDR1-26
+Added Pin To Net: NetName=NetAllwinner A1_VCC1 Pin=DDR1-27
+Added Pin To Net: NetName=NetDDR1_28 Pin=DDR1-28
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A4 Pin=DDR1-29
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A5 Pin=DDR1-30
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A6 Pin=DDR1-31
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A7 Pin=DDR1-32
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A8 Pin=DDR1-33
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A9 Pin=DDR1-34
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A11 Pin=DDR1-35
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_A12 Pin=DDR1-36
+Added Pin To Net: NetName=NetAllwinner A1_DDR3_CKE Pin=DDR1-37
+Added Pin To Net: NetName=NetDDR1_28 Pin=DDR1-41
+Added Pin To Net: NetName=NetDDR1_3 Pin=DDR1-43
+Added Pin To Net: NetName=NetDDR1_6 Pin=DDR1-46
+Added Pin To Net: NetName=NetDDR1_3 Pin=DDR1-49
+Added Pin To Net: NetName=NetDDR1_6 Pin=DDR1-52
+Added Pin To Net: NetName=NetDDR1_28 Pin=DDR1-54
+Added Pin To Net: NetName=NetC4_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetC21_1 Pin=R8-2

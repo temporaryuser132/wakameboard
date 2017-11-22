@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=PCMGreen1-12
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=PCMGreen1-13
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=PCMGreen1-16
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=PCMRed1-12
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=PCMRed1-13
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=X7-2

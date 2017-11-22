@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC29_2 Pin=U2-1
+Removed Pin From Net: NetName=NetC29_1 Pin=U2-2
+Removed Pin From Net: NetName=NetC30_2 Pin=U2-3
+Change Component Comment : Designator=U2 Old Comment=3.3V positive regulator New Comment=K4S510432B-TC75
+Change Component Designator: OldDesignator=U2 NewDesignator=DDR512
+Added Component: Designator=U2(MAX247)
+Added Pin To Net: NetName=NetAllwinner A1_VCC1 Pin=DDR512-1
+Added Pin To Net: NetName=NetU5_3 Pin=DDR512-3
+Added Pin To Net: NetName=NetC29_2 Pin=U2-1
+Added Pin To Net: NetName=NetC29_1 Pin=U2-2
+Added Pin To Net: NetName=NetC30_2 Pin=U2-3
+Change Net Name : Old Net Name=NetU5_3 New Net Name=NetDDR512_3
+Change Net Name : Old Net Name=NetU5_6 New Net Name=NetDDR512_6
+Change Net Name : Old Net Name=NetU5_28 New Net Name=NetDDR512_28

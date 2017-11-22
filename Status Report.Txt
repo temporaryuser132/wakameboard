@@ -1,7 +1,3 @@
-Output: Schematic Prints
-Type  : Schematic Print
-From  : Schematic Document [WakameBoard.SchDoc]
-
 Output: Bill of Materials
 Type  : BOM
 From  : Project [WakameBoard.PrjPcb]
@@ -37,4 +33,4 @@ From  : Project [WakameBoard.PrjPcb]
 Files Generated   : 7
 Documents Printed : 0
 
-Finished Output Generation At 20:05:10 On 22/10/2017
+Finished Output Generation At 18:43:57 On 21/11/2017

@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=
+OutputPath=Project Outputs for WakameBoard
 LogFolderPath=
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
@@ -52,13 +52,45 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
+[Document3]
+DocumentPath=WakameBoardOutput2017nov.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for WakameBoard\WakameBoard.BOM
+DocumentPath=Bill of Materials-WakameBoard.xls
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for WakameBoard\WakameBoard.CSV
+DocumentPath=Component Cross Reference Report-WakameBoard.xls
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for WakameBoard\WakameBoard.BOM
+
+[GeneratedDocument4]
+DocumentPath=WakameBoard.BOM
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for WakameBoard\WakameBoard.CSV
+
+[GeneratedDocument6]
+DocumentPath=WakameBoard.CSV
+
+[GeneratedDocument7]
+DocumentPath=WakameBoard.html
+
+[GeneratedDocument8]
+DocumentPath=WakameBoard.REP
+
+[GeneratedDocument9]
 DocumentPath=WakamelibGOOD.PCBLIB.htm
 
 [SearchPath1]

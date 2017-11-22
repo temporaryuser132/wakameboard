@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=C8-1
+Removed Pin From Net: NetName=NetC8_2 Pin=C8-2
+Removed Pin From Net: NetName=NetAllwinner A1_X24MIN Pin=C30-1
+Removed Pin From Net: NetName=NetAllwinner A1_X24OUT Pin=C31-2
+Removed Pin From Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C38-2
+Removed Pin From Net: NetName=NetC15_2 Pin=U1-1
+Removed Pin From Net: NetName=NetC15_1 Pin=U1-2
+Removed Pin From Net: NetName=NetC44_1 Pin=U1-3
+Change Component Footprint: Designator=MK1 Old Footprint=PIN2 New Footprint=ST-3150-5N
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetAXP1_LDO2 Pin=C21-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C21-2
+Added Pin To Net: NetName=NetAllwinner A1_X24MIN Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetAllwinner A1_X24OUT Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetAllwinner A1_VMIC Pin=C38-1
+Added Pin To Net: NetName=NetC37_1 Pin=C38-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=C38-2
+Added Pin To Net: NetName=NetC3_2 Pin=C38-2
+Added Pin To Net: NetName=NetAllwinner A1_VCC1 Pin=U1-1
+Added Pin To Net: NetName=NetAllwinner A1_VCC2_DRAM Pin=U1-1
+Added Pin To Net: NetName=NetAllwinner A1_VDD6_CPU Pin=U1-1
+Added Pin To Net: NetName=NetC15_2 Pin=U1-1
+Added Pin To Net: NetName=NetIC*1_7 Pin=U1-1
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=NetAXP1_LDO1 Pin=U1-2
+Added Pin To Net: NetName=NetC15_1 Pin=U1-2
+Added Pin To Net: NetName=NetC17_1 Pin=U1-3
+Added Pin To Net: NetName=NetC19_1 Pin=U1-3
+Added Pin To Net: NetName=NetC23_1 Pin=U1-3
+Added Pin To Net: NetName=NetC28_1 Pin=U1-3
+Added Pin To Net: NetName=NetC36_1 Pin=U1-3
+Added Pin To Net: NetName=NetC41_1 Pin=U1-3
+Added Pin To Net: NetName=NetC44_1 Pin=U1-3
