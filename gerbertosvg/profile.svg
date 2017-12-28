@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" viewBox="0 0 531.90 531.90">
+<g stroke-linejoin="round" fill-rule="evenodd">
+<line x1="0.22" y1="531.67" x2="531.67" y2="531.67" style="stroke:#A60000;stroke-width:1"/>
+<line x1="531.67" y1="531.67" x2="531.67" y2="0.23" style="stroke:#A60000;stroke-width:1"/>
+<line x1="531.67" y1="0.23" x2="0.22" y2="0.23" style="stroke:#A60000;stroke-width:1"/>
+<line x1="0.22" y1="0.23" x2="0.22" y2="531.67" style="stroke:#A60000;stroke-width:1"/>
+</g>
+</svg>
